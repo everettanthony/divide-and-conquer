@@ -1,0 +1,36 @@
+.section {
+ 	padding: 20px 15px;
+}
+.game {
+ 	min-height: 120px;
+}
+#success {
+    font-weight: bold;
+    margin-top: 12px;
+}
+.game .tactic {
+	overflow: hidden;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 2.1em;
+    margin-bottom: 7px;
+}
+.game ul {
+    display: block;
+    padding-left: 25px;
+    margin-top: 5px;
+}
+.flag-great-britain,
+.flag-united-states {
+	float: left;
+	margin-right: 8px;
+	padding: 0;
+	width: 50px;
+	height: 26px;
+}
+.flag-great-britain {
+	background: url('../images/flag-greatbritain.png') no-repeat left top;
+}
+.flag-united-states {
+	background: url('../images/flag-usa.png') no-repeat left top;
+}
