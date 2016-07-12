@@ -11,6 +11,7 @@ At the moment, each side is assigned a set of battle tactics that are assigned a
 
 ## Things To Do
 This was quickly thrown together, so the game is limited in functionality. I'd like to continue building on this with new ideas as they come along, especially when it comes to adding game play that requires more skill. Below is a list of updates I plan to make to this app:
+
 1. Improve the UI so the overall look and feel is more interesting.
 2. Add a scoreboard at the top that updates battle stats as the game progresses. 
 3. Allow the user to name both Armies and set troop count from the browser prior to starting the game.
